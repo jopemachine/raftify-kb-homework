@@ -1,7 +1,7 @@
-#### A : [[Availability]]
+#### A : [[Availability.md|Availabilty]]
 - 가용성
 - 모든 요청이 성공적으로 처리
-#### P : [[Partition Tolerance]]
+#### P : [[Partition Tolerance.md|Partition Tolerance]]
 - 분할 내성
 - 네트워크 분할이 발생해도 시스템이 정상적으로 작동
 --- 

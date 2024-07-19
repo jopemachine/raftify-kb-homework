@@ -3,10 +3,10 @@
 - 동기식
 	- 요청 -> 응답 -> 처리
 	- 응답이 오기 전까지 대기해야 됨
-	![[Pasted image 20240720023920.png]]
+	![[img/week1/General/Pasted image 20240720023920.png]]
 - 비동기식
 	- 요청 -> 할 일 함 -> 요청
 	- 응답이 오기까지 대기할 필요가 없음. 그 시간에 다른 작업을 할 수 있음
-	- [[Timeout]] 정의가 불가능함 -> 응답을 기다릴 필요가 없으니까.
-	![[Pasted image 20240720023950.png]]
-![[Pasted image 20240720023336.png]]
+	- [[Timeout.md|Timeout]] 정의가 불가능함 -> 응답을 기다릴 필요가 없으니까.
+	![[img/week1/General/Pasted image 20240720023950.png]]
+![[img/week1/General/Pasted image 20240720023336.png]]

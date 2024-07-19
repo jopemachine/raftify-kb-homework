@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c33c4978beaa4f50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 1 - Raft Papar Study/Paper Study/Log Matching.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 1 - Raft Papar Study/Paper Study/Log Matching.md",
+                "file": "Week 1 - Raft Papar Study/Paper Study/term.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 1 - Raft Papar Study/Paper Study/Log Matching.md",
+                "file": "Week 1 - Raft Papar Study/Paper Study/term.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 1 - Raft Papar Study/Paper Study/Log Matching.md"
+                "file": "Week 1 - Raft Papar Study/Paper Study/term.md"
               }
             }
           }
@@ -160,10 +147,24 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c33c4978beaa4f50",
+  "active": "b585bc15dc9f9f07",
   "lastOpenFiles": [
-    "2024-07-20.md",
+    "Week 1 - Raft Papar Study/General/Two Generals' Problem.md",
+    "Week 1 - Raft Papar Study/General/Timeout.md",
+    "Week 1 - Raft Papar Study/General/Sync vs Async.md",
+    "Week 1 - Raft Papar Study/General/Partition Tolerance.md",
+    "Week 1 - Raft Papar Study/General/FLP Theorem.md",
+    "Week 1 - Raft Papar Study/General/CP System.md",
+    "Week 1 - Raft Papar Study/General/Consistency Models.md",
+    "Week 1 - Raft Papar Study/General/Consistency.md",
+    "Week 1 - Raft Papar Study/General/Consensus.md",
+    "Week 1 - Raft Papar Study/General/CAP theorem.md",
+    "Week 1 - Raft Papar Study/General/Byzantine faults.md",
+    "Week 1 - Raft Papar Study/General/Async Distributed System.md",
+    "Week 1 - Raft Papar Study/General/AP System.md",
+    "Week 1 - Raft Papar Study/General/Availability.md",
     "Week 1 - Raft Papar Study/Paper Study/Log Matching.md",
+    "2024-07-20.md",
     "Week 1 - Raft Papar Study/Paper Study/term.md",
     "Week 1 - Raft Papar Study/Paper Study/Log Compaction.md",
     "Week 1 - Raft Papar Study/Paper Study/Leader Completeness.md",
@@ -174,24 +175,10 @@
     "Week 1 - Raft Papar Study/Paper Study/Leader Election.md",
     "Week 1 - Raft Papar Study/Paper Study/State Machine.md",
     "img/week1/General/Pasted image 20240720023336.png",
-    "Week 1 - Raft Papar Study/General/Two Generals' Problem.md",
     "img/week1/Paper",
     "img/week1/General",
     "img/week1",
-    "Week 1 - Raft Papar Study/General/Timeout.md",
-    "Week 1 - Raft Papar Study/General/Sync vs Async.md",
-    "Week 1 - Raft Papar Study/General/Partition Tolerance.md",
-    "Week 1 - Raft Papar Study/General/FLP Theorem.md",
-    "Week 1 - Raft Papar Study/General/CP System.md",
-    "Week 1 - Raft Papar Study/General/Consistency Models.md",
-    "Week 1 - Raft Papar Study/General/Consistency.md",
-    "Week 1 - Raft Papar Study/General/Consensus.md",
-    "Week 1 - Raft Papar Study/General/CAP theorem.md",
     "img/week1/General/Pasted image 20240720031709.png",
-    "Week 1 - Raft Papar Study/General/Byzantine faults.md",
-    "Week 1 - Raft Papar Study/General/Availability.md",
-    "Week 1 - Raft Papar Study/General/Async Distributed System.md",
-    "Week 1 - Raft Papar Study/General/AP System.md",
     "img/week1/General/Pasted image 20240720023920.png",
     "img",
     "img/week1/General/Pasted image 20240720023950.png",

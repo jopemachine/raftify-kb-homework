@@ -1,8 +1,8 @@
 --- 
-#### C : [[Consistency]]
+#### C : [[Consistency.md|Consistency]]
 - 일관성
 - 모든 노드가 동일한 시점의 데이터를 보유
-#### P : [[Partition Tolerance]]
+#### P : [[Partition Tolerance.md|Partition Tolerance]]
 - 분할 내성
 - 네트워크 분할이 발생해도 시스템이 정상적으로 작동
 ---
