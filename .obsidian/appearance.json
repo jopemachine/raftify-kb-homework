@@ -1,1 +1,7 @@
-{}
+{
+  "textFontFamily": "리디바탕,D2Coding",
+  "interfaceFontFamily": "나눔고딕OTF,나눔스퀘어라운드",
+  "monospaceFontFamily": "D2Coding",
+  "baseFontSize": 20,
+  "nativeMenus": false
+}
