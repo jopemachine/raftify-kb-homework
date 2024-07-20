@@ -1,6 +1,6 @@
 --- 
 - 한 번 커밋된 엔트리는 다음 임기의 리더들에게 반드시 포함될 것을 보장
-- 다시한번 `AppendEntries`의 동작을 되짚어보겠습니다.
+- 다시 한번 [[AppendEntries.md|append entries]]의 동작을 되짚어보겠습니다.
 
 리더는 새로운 엔트리를 다른 서버로 전파할 때 `AppendEntries` RPC를 호출합니다.  
 문제 없이 성공한다면 로그엔트리를 복사하고, 실패한다면 인덱스 값을 1씩 감소시켜서 성공할 때까지 반복하고 성공한다면 로그를 복사합니다.
@@ -11,7 +11,7 @@
 
 1. **Election Restriction** (선거 제약)
     - Candidate는 Leader가 되려면 **과반수** 노드의 투표가 있어야 함
-    - `RequestVote` RPC에는 Candidate의 마지막 로그의 index와 term이 파라미터로 포함되어있는데, 요청을 받은 투표자(Follower)의 index나 term이 더 높으면 요청을 거절함
+    - `RequestVote` [[RequestVote.md|RPC]]에는 Candidate의 마지막 로그의 index와 [[Week 1 - Raft Papar Study/Paper Study/term.md|term]]이 파라미터로 포함되어있는데, 요청을 받은 Follower의 index나 term이 더 높으면 요청을 거절함
 2. **Commit Rules** (커밋 규칙)
     - Raft에서는 반드시 **현재 임기의 로그**가 복제되어야만 커밋으로 간주한다.
 
