@@ -1,0 +1,1 @@
+일관성 모델은 분산 시스템에서 데이터의 일관성을 정의하고 보장하는 방법을 설명함. 강한 일관성(strong consistency), 약한 일관성(weak consistency), 최종 일관성(eventual consistency) 등의 다양한 모델이 존재
