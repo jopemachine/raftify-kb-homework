@@ -2,7 +2,7 @@ Raft는 [[heartbeat]] 메커니즘을 사용하여 Leader Election (리더 선�
 Leader는 주기적으로 heartbeat를 메시지를 보내서 모든 follower들이 그들의 권위(authority)를 유지한다.
 > heartbeat 메시지는 [[AppendEntries]] RPC로 로그 엔트리가 없다
 
-[[Election timeout]]은 follower가 특정 시간이 지나도 통신을 못 받아서 새로운 Leader를 선출하기 위한 선거를 시작한다. 즉 여기서 follower들 중 제일 먼저 timeout에 도달하면 candidate가 된다.
+Election timeout은 follower가 특정 시간이 지나도 통신을 못 받아서 새로운 Leader를 선출하기 위한 선거를 시작한다. 즉 여기서 follower들 중 제일 먼저 timeout에 도달하면 candidate가 된다.
 Follower는 현재 term을 증가시키고 candidate 상태로 바뀐다. 자기 자신에게 투표를 하고 [[RequestVote]] RPC 요청을 cluster에 있는 다른 노드에게 요청한다.
 
 Candidate는 다음 3가지 일이 발생할 때까지 candidate 상태를 유지한다.
