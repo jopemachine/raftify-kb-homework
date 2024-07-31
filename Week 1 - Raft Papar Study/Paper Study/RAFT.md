@@ -1,13 +1,12 @@
-- [Raft](https://raft.github.io/)는 tikv, etcd, MongoDB 등 다양한 분산 시스템에서 사용되는 실용적인 합의 알고리즘이다.
+[Raft](https://raft.github.io/)는 tikv, etcd, MongoDB 등 다양한 분산 시스템에서 사용되는 실용적인 합의 알고리즘이다.
 
 기존의 [Paxos](https://ko.wikipedia.org/wiki/%ED%8C%A9%EC%86%8C%EC%8A%A4_(%EC%BB%B4%ED%93%A8%ED%84%B0_%EA%B3%BC%ED%95%99)) 같은 합의 알고리즘에 비해 훨씬 이해하거나 구현하기 쉬우면서 이에 필적할만한 성능을 제공한다. 특히 _이해 가능성_(_Understandability_)은 Raft 알고리즘의 가장 중요한 목표이기도 하다.
 
-Raft는 크게 두 가지 접근을 통해 _이해 가능성_을 달성한다.
+Raft는 크게 두 가지 접근을 통해 이해 가능성을 달성한다.
 
 1. **문제를 나눠서 접근하기**: `Leader Election`, `Log Replication`, `Membership changes`.
-    
 2. **고려해야 하는 상태의 수를 줄여 상태 공간 단순화 하기**.
-    
+
 
 ### Raft만의 특징
 

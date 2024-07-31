@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "141132d779dd0c25",
+            "id": "8949e0e632cedc51",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Week 1 - Raft Papar Study/General/Timeout.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240720112112.png",
+                "file": "Week 1 - Raft Papar Study/General/Timeout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240720112112.png",
+                "file": "Week 1 - Raft Papar Study/General/Timeout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240720112112.png"
+                "file": "Week 1 - Raft Papar Study/General/Timeout.md"
               }
             }
           }
@@ -143,46 +147,48 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1f2d3f1b13edf912",
+  "active": "8949e0e632cedc51",
   "lastOpenFiles": [
-    "Pasted image 20240720213342.png",
-    "Week 1 - Raft Papar Study/Paper Study/State Machine.md",
-    "Week 1 - Raft Papar Study/Paper Study/Log Compaction.md",
-    "Week 1 - Raft Papar Study/Paper Study/Log Matching.md",
-    "Week 1 - Raft Papar Study/Paper Study/InstallSnapshot.md",
-    "Week 1 - Raft Papar Study/Paper Study/heartbeat.md",
-    "Week 1 - Raft Papar Study/Paper Study/Election timeout.md",
-    "Week 1 - Raft Papar Study/Paper Study/AppendEntries.md",
-    "Week 1 - Raft Papar Study/Paper Study/Leader Election.md",
-    "나는야 매기.md",
-    "Week 1 - Raft Papar Study/Paper Study/RequestVote.md",
-    "Week 1 - Raft Papar Study/Paper Study/term.md",
-    "Week 1 - Raft Papar Study/Paper Study/RAFT.md",
-    "Week 1 - Raft Papar Study/Paper Study/Leader Completeness.md",
-    "Week 1 - Raft Papar Study/Paper Study/Leader Append-Only.md",
+    "Week 1 - Raft Papar Study/General/Async Distributed System.md",
+    "Week 2 - Scenario Study 1/RaftCore.md",
+    "Week 2 - Scenario Study 1/Raft Loop.md",
+    "Week 2 - Scenario Study 1/MsgAppend.md",
+    "Week 2 - Scenario Study 1/Progress.md",
+    "Week 1 - Raft Papar Study/General/FLP Theorem.md",
+    "Week 2 - Scenario Study 1/ProgressTracker.md",
+    "Week 2 - Scenario Study 1/RaftNode.md",
+    "Rust/borrow checker.md",
+    "Rust/variable scope.md",
+    "Week 2 - Scenario Study 1/SoftState.md",
+    "Rust",
+    "Week 2 - Scenario Study 1/RawNode.md",
+    "Week 2 - Scenario Study 1/MsgRequestVote.md",
+    "Week 2 - Scenario Study 1/Log Entry.md",
+    "Week 2 - Scenario Study 1/HardState.md",
     "Week 1 - Raft Papar Study/Paper Study/Server State.md",
-    "Week 1 - Raft Papar Study/General/Consistency.md",
-    "Week 1 - Raft Papar Study/General/CP System.md",
-    "Week 1 - Raft Papar Study/General/Timeout.md",
     "Week 1 - Raft Papar Study/Paper Study/Safety Machine Property.md",
-    "Pasted image 20240720112112.png",
+    "Week 1 - Raft Papar Study/Paper Study/State Machine.md",
+    "Week 2 - Scenario Study 1/Ready.md",
+    "Week 2 - Scenario Study 1/StateRole.md",
+    "Week 2 - Scenario Study 1/advance.md",
+    "img/week1/Paper/Pasted image 20240720112112.png",
     "Week 1 - Raft Papar Study/Paper Study/Stable Store.md",
     "Week 1 - Raft Papar Study/Paper Study/Split Vote.md",
-    "img/week1/Paper/Pasted image 20240720040928.png",
     "Week 1 - Raft Papar Study/Paper Study/Snapshot.md",
+    "Week 1 - Raft Papar Study/Paper Study/RequestVote.md",
     "Week 1 - Raft Papar Study/Paper Study/Membership change.md",
-    "img/week1/Paper/Pasted image 20240720052403.png",
-    "Week 1 - Raft Papar Study/Paper Study/Joint Consensus.md",
-    "img/week1/Paper/Pasted image 20240720052227.png",
-    "img/week1/Paper/Pasted image 20240720051745.png",
-    "img/week1/Paper/Pasted image 20240720051231.png",
-    "img/week1/Paper/Pasted image 20240720051217.png",
-    "Week 1 - Raft Papar Study/General/AP System.md",
-    "img/week1/General/Pasted image 20240720023336.png",
+    "img/week1/Paper/Pasted image 20240727110304.png",
+    "img/week1/Paper/Pasted image 20240727110300.png",
+    "img/week1/Paper/Pasted image 20240727110256.png",
+    "img/week1/Paper/Pasted image 20240727110251.png",
+    "img/week1/Paper/Pasted image 20240723105704.png",
+    "Pasted image 20240723105017.png",
+    "Pasted image 20240723104936.png",
+    "Pasted image 20240720213342.png",
+    "img/week1/Paper/Pasted image 20240720040928.png",
     "img/week1/Paper",
     "img/week1/General",
     "img/week1",
-    "img/week1/General/Pasted image 20240720031709.png",
     "img",
     "Week 3 - Scenario Study 2",
     "Week 2 - Scenario Study 1",

@@ -1,8 +1,6 @@
 --- 
 
-##### 
-
-리더는 `InstallSnapshot`이라는 새로운 RPC를 통해 뒤쳐진 팔로워들에게 스냅샷을 보낸다.
+###### 리더는 `InstallSnapshot`이라는 새로운 RPC를 통해 뒤쳐진 팔로워들에게 스냅샷을 보낸다.
 
 ### InstallSnapshot RPC
 
