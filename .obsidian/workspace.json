@@ -4,103 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4d99eeca88c72fc0",
+        "id": "134eb5f44fc52978",
         "type": "tabs",
         "children": [
           {
-            "id": "ca475d482084af46",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "622d8392db230da0",
+            "id": "bbb65dd3a467f115",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 4 - Scenario Study 2/ConfChange.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7c44af9c75d9a35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 3 - Scenario Study 1/Log Entry.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ace05f5c7e73c473",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 3 - Scenario Study 1/FSM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc27baf135b13b5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 3 - Scenario Study 1/Quorum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60701dc20625ef51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 3 - Scenario Study 1/StateRole.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99dbdea2d5b91530",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 2 - Raft Papar Study/Server State.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2277cb374a57cba3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plan.md",
+                "file": "Week 1 - Raft Papar Study/Paper Study/Membership change.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 479.5
+    "width": 356.5
   },
   "right": {
     "id": "c1c00b66436096d3",
@@ -166,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan.md",
+                "file": "Week 1 - Raft Papar Study/Paper Study/Membership change.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan.md",
+                "file": "Week 1 - Raft Papar Study/Paper Study/Membership change.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan.md"
+                "file": "Week 1 - Raft Papar Study/Paper Study/Membership change.md"
               }
             }
           }
@@ -214,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 536.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -227,34 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2277cb374a57cba3",
+  "active": "bbb65dd3a467f115",
   "lastOpenFiles": [
-    "Week 4 - Scenario Study 2/MsgSnapshot.md",
-    "Week 1 - General/AP System.md",
-    "Week 1 - General/Consistency Models.md",
-    "Week 1 - General/Two Generals' Problem.md",
-    "Week 1 - General/Timeout.md",
-    "Week 1 - General/Sync vs Async.md",
-    "Week 1 - General/Async Distributed System.md",
-    "Week 1 - General/CAP theorem.md",
-    "Week 1 - General/Byzantine faults.md",
-    "Week 1 - General/Availability.md",
-    "Week 1 - General/Partition Tolerance.md",
-    "Week 1 - General/FLP Theorem.md",
-    "Week 1 - General/Consistency.md",
-    "Week 4 - Scenario Study 2/eraft.pb.md",
-    "Week 2 - Raft Papar Study/State Machine.md",
-    "Week 2 - Raft Papar Study/Stable Store.md",
-    "Week 2 - Raft Papar Study/Split Vote.md",
-    "Week 2 - Raft Papar Study/Log Matching.md",
-    "Week 4 - Scenario Study 2/learner.md",
-    "Week 4 - Scenario Study 2/voter.md",
-    "Week 4 - Scenario Study 2/ConfState.md",
-    "Week 4 - Scenario Study 2/WAL Snapshot.md",
-    "Week 4 - Scenario Study 2/WAL.md",
-    "Week 3 - Scenario Study 1/term.md",
-    "Week 3 - Scenario Study 1/election_tick.md",
-    "Week 3 - Scenario Study 1/FSM.md",
+    "Week 1 - Raft Papar Study/Paper Study/Log Replication.md",
+    "Week 1 - Raft Papar Study/Paper Study/Stable Store.md",
+    "Week 1 - Raft Papar Study/Paper Study/State Machine.md",
+    "Week 1 - Raft Papar Study/Paper Study/term.md",
+    "Week 1 - Raft Papar Study/Paper Study/Server State.md",
+    "Week 1 - Raft Papar Study/Paper Study/Split Vote.md",
+    "Week 1 - Raft Papar Study/Paper Study/Snapshot.md",
+    "Week 1 - Raft Papar Study/Paper Study/Safety Machine Property.md",
+    "Week 1 - Raft Papar Study/Paper Study/Membership change.md",
+    "Week 1 - Raft Papar Study/Paper Study/Log Compaction.md",
+    "Week 1 - Raft Papar Study/Paper Study/Leader Election.md",
+    "Week 1 - Raft Papar Study/Paper Study/Leader Append-Only.md",
+    "Week 1 - Raft Papar Study/Paper Study/Joint Consensus.md",
+    "Week 1 - Raft Papar Study/Paper Study/InstallSnapshot.md",
+    "Week 1 - Raft Papar Study/Paper Study/AppendEntries.md",
+    "Week 1 - Raft Papar Study/Paper Study/RequestVote.md",
+    "Week 1 - Raft Papar Study/Paper Study/Leader Completeness.md",
+    "Week 1 - Raft Papar Study/Paper Study/heartbeat.md",
+    "Week 1 - Raft Papar Study/Paper Study/Election timeout.md",
+    "Untitled.md",
+    "Week 1 - Raft Papar Study/Paper Study/Log Matching.md",
+    "Week 2 - Scenario Study 1/RawNode.md",
+    "Week 1 - Raft Papar Study/README.md",
+    "Week 2 - Scenario Study 1/RaftNode.md",
+    "Week 2 - Scenario Study 1/Quorum.md",
+    "Week 2 - Scenario Study 1/Progress.md",
     "Week 4 - Scenario Study 2",
     "Week 1 - General/Untitled.canvas",
     "Week 1 - General",
