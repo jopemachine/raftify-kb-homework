@@ -6,7 +6,6 @@
       {
         "id": "134eb5f44fc52978",
         "type": "tabs",
-        "dimension": 41.2962962962963,
         "children": [
           {
             "id": "bbb65dd3a467f115",
@@ -14,26 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 1 - Raft Papar Study/Paper Study/Server State.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "e8cfa861a343e08c",
-        "type": "tabs",
-        "dimension": 58.7037037037037,
-        "children": [
-          {
-            "id": "389fccd05defab88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 1 - Raft Papar Study/Paper Study/RequestVote.md",
+                "file": "Week 1 - Raft Papar Study/Paper Study/Membership change.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 1 - Raft Papar Study/Paper Study/Server State.md",
+                "file": "Week 1 - Raft Papar Study/Paper Study/Membership change.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 1 - Raft Papar Study/Paper Study/Server State.md",
+                "file": "Week 1 - Raft Papar Study/Paper Study/Membership change.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 1 - Raft Papar Study/Paper Study/Server State.md"
+                "file": "Week 1 - Raft Papar Study/Paper Study/Membership change.md"
               }
             }
           }
@@ -168,17 +148,23 @@
   },
   "active": "bbb65dd3a467f115",
   "lastOpenFiles": [
-    "Week 1 - Raft Papar Study/Paper Study/Safety Machine Property.md",
-    "Week 1 - Raft Papar Study/Paper Study/RequestVote.md",
-    "Week 1 - Raft Papar Study/Paper Study/Membership change.md",
     "Week 1 - Raft Papar Study/Paper Study/Log Replication.md",
+    "Week 1 - Raft Papar Study/Paper Study/Stable Store.md",
+    "Week 1 - Raft Papar Study/Paper Study/State Machine.md",
+    "Week 1 - Raft Papar Study/Paper Study/term.md",
+    "Week 1 - Raft Papar Study/Paper Study/Server State.md",
+    "Week 1 - Raft Papar Study/Paper Study/Split Vote.md",
+    "Week 1 - Raft Papar Study/Paper Study/Snapshot.md",
+    "Week 1 - Raft Papar Study/Paper Study/Safety Machine Property.md",
+    "Week 1 - Raft Papar Study/Paper Study/Membership change.md",
     "Week 1 - Raft Papar Study/Paper Study/Log Compaction.md",
     "Week 1 - Raft Papar Study/Paper Study/Leader Election.md",
-    "Week 1 - Raft Papar Study/Paper Study/Leader Completeness.md",
     "Week 1 - Raft Papar Study/Paper Study/Leader Append-Only.md",
     "Week 1 - Raft Papar Study/Paper Study/Joint Consensus.md",
     "Week 1 - Raft Papar Study/Paper Study/InstallSnapshot.md",
     "Week 1 - Raft Papar Study/Paper Study/AppendEntries.md",
+    "Week 1 - Raft Papar Study/Paper Study/RequestVote.md",
+    "Week 1 - Raft Papar Study/Paper Study/Leader Completeness.md",
     "Week 1 - Raft Papar Study/Paper Study/heartbeat.md",
     "Week 1 - Raft Papar Study/Paper Study/Election timeout.md",
     "Untitled.md",
@@ -188,12 +174,6 @@
     "Week 2 - Scenario Study 1/RaftNode.md",
     "Week 2 - Scenario Study 1/Quorum.md",
     "Week 2 - Scenario Study 1/Progress.md",
-    "Week 2 - Scenario Study 1/MsgRequestVote.md",
-    "Week 2 - Scenario Study 1/MsgAppend.md",
-    "Week 1 - Raft Papar Study/Paper Study/Snapshot.md",
-    "Week 1 - Raft Papar Study/Paper Study/Server State.md",
-    "Week 1 - Raft Papar Study/Paper Study/Split Vote.md",
-    "Week 1 - Raft Papar Study/Paper Study/Stable Store.md",
     "Week 4 - Scenario Study 2",
     "Week 1 - General/Untitled.canvas",
     "Week 1 - General",
