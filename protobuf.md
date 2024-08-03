@@ -1,0 +1,3 @@
+- Protocol Buffers 는 language-nutral, platform-nutral 한 직렬화/역직렬화 메커니즘. 
+- `.proto` 파일에 데이터 구조를 정의한다.
+  - `message` 키워드: 데이터 구조를 정의하는데 사용함.
