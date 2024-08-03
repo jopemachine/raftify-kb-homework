@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 1 - Raft Papar Study/General/Timeout.md",
+                "file": "Week 2 - Scenario Study 1/Raft Loop.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 240.5,
+    "collapsed": true
   },
   "right": {
     "id": "eba852928ed26676",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 1 - Raft Papar Study/General/Timeout.md",
+                "file": "Week 2 - Scenario Study 1/Raft Loop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 1 - Raft Papar Study/General/Timeout.md",
+                "file": "Week 2 - Scenario Study 1/Raft Loop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 1 - Raft Papar Study/General/Timeout.md"
+                "file": "Week 2 - Scenario Study 1/Raft Loop.md"
               }
             }
           }
@@ -149,34 +150,34 @@
   },
   "active": "8949e0e632cedc51",
   "lastOpenFiles": [
-    "Week 1 - Raft Papar Study/General/Async Distributed System.md",
+    "Week 2 - Scenario Study 1/RawNode.md",
+    "Week 2 - Scenario Study 1/RaftNode.md",
+    "Week 2 - Scenario Study 1/HardState.md",
+    "Week 2 - Scenario Study 1/SoftState.md",
+    "Week 2 - Scenario Study 1/FSM.md",
+    "Week 2 - Scenario Study 1/StateRole.md",
+    "Week 2 - Scenario Study 1/Ready.md",
     "Week 2 - Scenario Study 1/RaftCore.md",
     "Week 2 - Scenario Study 1/Raft Loop.md",
+    "Week 2 - Scenario Study 1/Log Entry.md",
+    "Week 2 - Scenario Study 1/advance.md",
+    "Week 1 - Raft Papar Study/General/Timeout.md",
+    "Week 1 - Raft Papar Study/General/Async Distributed System.md",
     "Week 2 - Scenario Study 1/MsgAppend.md",
     "Week 2 - Scenario Study 1/Progress.md",
     "Week 1 - Raft Papar Study/General/FLP Theorem.md",
     "Week 2 - Scenario Study 1/ProgressTracker.md",
-    "Week 2 - Scenario Study 1/RaftNode.md",
     "Rust/borrow checker.md",
     "Rust/variable scope.md",
-    "Week 2 - Scenario Study 1/SoftState.md",
     "Rust",
-    "Week 2 - Scenario Study 1/RawNode.md",
     "Week 2 - Scenario Study 1/MsgRequestVote.md",
-    "Week 2 - Scenario Study 1/Log Entry.md",
-    "Week 2 - Scenario Study 1/HardState.md",
     "Week 1 - Raft Papar Study/Paper Study/Server State.md",
     "Week 1 - Raft Papar Study/Paper Study/Safety Machine Property.md",
     "Week 1 - Raft Papar Study/Paper Study/State Machine.md",
-    "Week 2 - Scenario Study 1/Ready.md",
-    "Week 2 - Scenario Study 1/StateRole.md",
-    "Week 2 - Scenario Study 1/advance.md",
     "img/week1/Paper/Pasted image 20240720112112.png",
     "Week 1 - Raft Papar Study/Paper Study/Stable Store.md",
     "Week 1 - Raft Papar Study/Paper Study/Split Vote.md",
     "Week 1 - Raft Papar Study/Paper Study/Snapshot.md",
-    "Week 1 - Raft Papar Study/Paper Study/RequestVote.md",
-    "Week 1 - Raft Papar Study/Paper Study/Membership change.md",
     "img/week1/Paper/Pasted image 20240727110304.png",
     "img/week1/Paper/Pasted image 20240727110300.png",
     "img/week1/Paper/Pasted image 20240727110256.png",

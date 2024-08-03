@@ -52,6 +52,7 @@ pub struct RaftCore<T: Storage> {
 pub struct RaftLog<T: Storage> {
     pub store: T, ///  log storage 구현체
     pub unstable: Unstable, /// 스토리지 저장전에 거치는 버퍼 개념
+    /// 저장하려는 스냅샷, 엔트리등이 있
 	
 /// 안정적인 저장소(quorum of nodes)에 저장된 가장 높은 로그 위치
 /// applied <= committed 적용된 위치가 커밋된 위치보다 크지 않음을 보장
