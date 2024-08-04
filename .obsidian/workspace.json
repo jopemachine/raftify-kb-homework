@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 1 - Raft Papar Study/General/Consensus.md",
+                "file": "Week 2 - Scenario Study 1/Log Entry.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 1 - Raft Papar Study/General/Consensus.md",
+                "file": "Week 2 - Scenario Study 1/Log Entry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 1 - Raft Papar Study/General/Consensus.md",
+                "file": "Week 2 - Scenario Study 1/Log Entry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 1 - Raft Papar Study/General/Consensus.md"
+                "file": "Week 2 - Scenario Study 1/Log Entry.md"
               }
             }
           }
@@ -229,32 +229,32 @@
   },
   "active": "9ff7ec96490642a1",
   "lastOpenFiles": [
-    "Week 1 - Raft Papar Study/General/Consistency Models.md",
-    "Week 1 - Raft Papar Study/General/Sync vs Async.md",
-    "Week 1 - Raft Papar Study/General/CP System.md",
-    "Week 1 - Raft Papar Study/General/Timeout.md",
-    "Week 1 - Raft Papar Study/General/Two Generals' Problem.md",
-    "Week 1 - Raft Papar Study/General/Partition Tolerance.md",
-    "Week 1 - Raft Papar Study/General/FLP Theorem.md",
-    "Week 1 - Raft Papar Study/General/AP System.md",
-    "Week 1 - Raft Papar Study/General/Consistency.md",
-    "Week 1 - Raft Papar Study/General/Consensus.md",
-    "Week 1 - Raft Papar Study/General/Async Distributed System.md",
-    "Week 1 - Raft Papar Study/General/Availability.md",
-    "Week 1 - Raft Papar Study/Paper Study/Leader Election.md",
-    "Week 1 - Raft Papar Study/Paper Study/Leader Completeness.md",
-    "Week 1 - Raft Papar Study/General/CAP theorem.md",
-    "Week 1 - Raft Papar Study/Paper Study/Election timeout.md",
-    "Week 1 - Raft Papar Study/Paper Study/AppendEntries.md",
-    "Week 1 - Raft Papar Study/Paper Study/heartbeat.md",
-    "Week 1 - Raft Papar Study/Paper Study/InstallSnapshot.md",
-    "Week 1 - Raft Papar Study/Paper Study/Joint Consensus.md",
-    "Week 1 - Raft Papar Study/Paper Study/Leader Append-Only.md",
-    "Week 1 - Raft Papar Study/Paper Study/Log Compaction.md",
-    "Week 1 - Raft Papar Study/Paper Study/Log Matching.md",
+    "Week 2 - Scenario Study 1/Progress.md",
+    "Week 2 - Scenario Study 1/advance.md",
+    "Week 2 - Scenario Study 1/election_tick.md",
+    "Week 2 - Scenario Study 1/FSM.md",
+    "Week 2 - Scenario Study 1/MsgAppend.md",
+    "Week 2 - Scenario Study 1/Log Entry.md",
+    "Week 2 - Scenario Study 1/HardState.md",
+    "Week 1 - Raft Papar Study/Paper Study/Stable Store.md",
+    "Week 1 - Raft Papar Study/Paper Study/Split Vote.md",
+    "Week 1 - Raft Papar Study/Paper Study/State Machine.md",
+    "Week 1 - Raft Papar Study/Paper Study/term.md",
     "Week 1 - Raft Papar Study/Paper Study/RequestVote.md",
-    "Week 1 - Raft Papar Study/Paper Study/Membership change.md",
     "Week 1 - Raft Papar Study/Paper Study/Safety Machine Property.md",
+    "Week 1 - Raft Papar Study/Paper Study/Raft.md",
+    "Week 1 - Raft Papar Study/Paper Study/Membership change.md",
+    "Week 1 - Raft Papar Study/Paper Study/Log Matching.md",
+    "Week 1 - Raft Papar Study/Paper Study/Leader Completeness.md",
+    "Week 1 - Raft Papar Study/Paper Study/Snapshot.md",
+    "Week 1 - Raft Papar Study/Paper Study/AppendEntries.md",
+    "Week 1 - Raft Papar Study/Paper Study/InstallSnapshot.md",
+    "Week 1 - Raft Papar Study/Paper Study/heartbeat.md",
+    "Week 1 - Raft Papar Study/Paper Study/Log Compaction.md",
+    "Week 1 - Raft Papar Study/Paper Study/Leader Election.md",
+    "Week 1 - Raft Papar Study/Paper Study/Election timeout.md",
+    "Week 1 - Raft Papar Study/Paper Study/Server State.md",
+    "Week 1 - Raft Papar Study/Paper Study/Joint Consensus.md",
     "Week 4 - Scenario Study 2",
     "Week 1 - General/Untitled.canvas",
     "Week 1 - General",
