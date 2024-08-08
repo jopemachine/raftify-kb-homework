@@ -6,6 +6,6 @@
 
 # Raftify
 
-## Structure
+## 빌드 구조
 
 ![structure](structure.jpg)
