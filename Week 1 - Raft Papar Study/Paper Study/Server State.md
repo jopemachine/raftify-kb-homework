@@ -1,6 +1,0 @@
-
-## Leader
-
-## Follower
-
-## Candidate
